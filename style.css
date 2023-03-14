@@ -1,0 +1,73 @@
+
+.page_title{
+    background-color: gold;
+    color: black;
+    margin: 0%;
+    margin-bottom: 1cm;
+    padding: 1em;
+    text-align: center;
+    font-family: monospace;
+    font: 800 28px;
+}
+
+body{
+    background-color: cornsilk
+}
+
+.recipes_list{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2em;
+    margin: 0%;
+}
+
+.recipes_list li{
+    padding: 3%;
+    font-family: monospace;
+    text-align: center;
+    display: grid;
+    background-color: bisque;
+    border: solid thin black;
+    margin: 1em;
+    font-size: 18px;
+}
+
+h1{
+    background-color: lightpink;
+    color: black;
+    padding: 1em;
+    text-align: center;
+    font-family: monospace;
+    font: 800 26px;
+}
+
+h3,
+h4 {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: black;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 24px;
+    text-indent: 1cm;
+}
+
+ul li{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 1%;
+    font-size: 18px;
+}
+
+ol li {
+    padding: 1%;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+img {
+    border: double black 5px;
+    width: auto;
+    height: 350px;
+}
