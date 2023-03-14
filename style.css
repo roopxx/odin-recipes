@@ -20,7 +20,7 @@ body{
     margin: 0%;
 }
 
-.recipes_list:hover{
+a:hover{
     background-color: cadetblue;
 }
 
