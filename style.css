@@ -20,6 +20,10 @@ body{
     margin: 0%;
 }
 
+.recipes_list:hover{
+    background-color: cadetblue;
+}
+
 .recipes_list li{
     padding: 3%;
     font-family: monospace;
